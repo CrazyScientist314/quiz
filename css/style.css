@@ -63,6 +63,7 @@
     width: 100px;
     height: 100px;
     background-image: url(https://img.aws.livestrongcdn.com/ls-article-image-400/cme/cme_public_images/www_livestrong_com/photos.demandstudios.com/getty/article/190/215/116059124_XS.jpg);
+    background-size: 100px 100px;
     text-align: center;
     color: white;
     margin: 10px;
@@ -71,7 +72,8 @@
 #sour {
     width: 100px;
     height: 100px;
-    background-image: url(https://img.aws.livestrongcdn.com/ls-article-image-400/cme/cme_public_images/www_livestrong_com/photos.demandstudios.com/getty/article/190/215/116059124_XS.jpg);
+    background-image: url(http://essentiallyholistic.co.uk/wp-content/uploads/2016/07/Sour.jpg);
+    background-size: 100px 100px;
     text-align: center;
     color: white;
     margin: 10px;
@@ -80,7 +82,63 @@
 #sweet {
     width: 100px;
     height: 100px;
-    background-image: url(https://img.aws.livestrongcdn.com/ls-article-image-400/cme/cme_public_images/www_livestrong_com/photos.demandstudios.com/getty/article/190/215/116059124_XS.jpg);
+    background-image: url(https://shared1.ad-lister.co.uk/UserImages/62bab758-9948-428f-b1f1-878d159f79e7/Img/vegetarian/veggie-sweet-mix.jpg);
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+.month {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#allMonths {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://www.englishclub.com/images/vocabulary/months.png);
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+#July {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/travelagentcentral/1528912350/fourthofjulygetty.jpg/fourthofjulygetty.jpg?ha6rfqMiBJQlUIP6OLKOZNk4YH0pjMx3&itok=5ztFjAxE);
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+#August {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://media.timeout.com/images/105218432/630/472/image.jpg);
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+#September {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://cdn.graziadaily.co.uk/one/lifestyle-images/news_real_life/59b16f60a068cdc571f55f65/september.jpg?quality=50&width=960&ratio=16-9&resizeStyle=aspectfill&format=jpg);
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+#October {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://static.wixstatic.com/media/aeb37f_11a3a8a34bb14639bad410c32d89b295.jpg);
+    background-size: 100px 100px;
     text-align: center;
     color: white;
     margin: 10px;
